@@ -18,6 +18,10 @@ h1 {
   text-align: center;
 }
 
+p {
+  font-size: 21px;
+}
+
 a {
   color: aquamarine;
   font-size: 16px;
@@ -30,9 +34,14 @@ h2 {
 
 .description {
   color: grey;
-  font-size: 21px;
 }
 
 .img-container {
   margin-bottom: 1.5rem;
+}
+
+footer {
+  margin-top: 24px;
+  color: grey;
+  text-align: right;
 }
