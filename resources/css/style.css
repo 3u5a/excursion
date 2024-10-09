@@ -32,3 +32,7 @@ h2 {
   color: grey;
   font-size: 21px;
 }
+
+.img-container {
+  margin-bottom: 1.5rem;
+}
